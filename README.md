@@ -1,3 +1,29 @@
+# Next.js Basic Template
+
+This repository is set up as a minimal Next.js project using the App Router.
+
+## Getting Started
+
+- Install dependencies:
+
+```bash
+npm install
+```
+
+- Start the development server:
+
+```bash
+npm run dev
+```
+
+- Build for production:
+
+```bash
+npm run build && npm start
+```
+
+---
+
 # 👋 Welcome to Tiya's Personal Website!
 
 ![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
